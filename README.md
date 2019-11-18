@@ -34,7 +34,7 @@
 ## Step 1. Try it
 *Aim: Get a small amount of bitcoin and make a transaction*
 
-1. [Download](https://bitcoin-only.com/#wallets) a Bitcoin Wallet
+1. [Download](https://bitcoin-only.com/#wallets) a bitcoin wallet
 2. [Get](https://bitcoin-only.com/#get-bitcoin) some bitcoin
 3. Withdraw the bitcoin to your wallet
 4. Send some bitcoin to yourself
@@ -85,7 +85,7 @@
 *Aim: Improve your backup so you are ready in-case bitcoin goes up in price or you decide to buy more.*
 
 1. Read the [Seed FAQ](https://github.com/6102bitcoin/FAQ/blob/master/seed.md)
-2. Pick a setup (e.g. Two full backups, one on papper one on stamped metal)
+2. Pick a setup (e.g. Two full backups, one on paper one on stamped metal)
 3. Implement your selected setup
 
 -----
@@ -100,11 +100,11 @@
 -----
 
 ## Step 8. Joining In
-*Aim: Discover how to get involved discussions about bitcoin.*
+*Aim: Discover how to get involved in discussions about bitcoin.*
 
 1. Attend a [local meetup](https://bitcoin-only.com/#meetups)
 2. [Subscribe](https://bitcoinops.org/en/newsletters/) to bitcoin op-tech
-3. Join Twitter and follow bitcoiners you come across.
+3. Join Twitter and follow bitcoiners you come across
 
 -----
 
