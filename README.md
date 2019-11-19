@@ -85,7 +85,7 @@
 *Aim: Improve your backup so you are ready in-case bitcoin goes up in price or you decide to buy more.*
 
 1. Read the <a href="https://github.com/6102bitcoin/FAQ/blob/master/seed.md" target="_blank">Seed FAQ</a>
-2. Pick a setup (e.g. Two full backups, one on papper one on stamped metal)
+2. Pick a setup (e.g. Two full backups, one on paper one on stamped metal)
 3. Implement your selected setup
 
 -----
@@ -100,7 +100,7 @@
 -----
 
 ## Step 8. Joining In
-*Aim: Discover how to get involved discussions about bitcoin.*
+*Aim: Discover how to get involved in discussions about bitcoin.*
 
 1. Attend a <a href="https://bitcoin-only.com/#meetups" target="_blank">local meetup</a>
 2. <a href="https://bitcoinops.org/en/newsletters/" target="_blank">Subscribe</a> to bitcoin op-tech
@@ -119,7 +119,7 @@
 ## Step 10. Bitcoin MicroPayments
 *Aim: Understand what the lightning network is and how you can use it.*
 
-1. Download a non-custodial bitcoin wallet
+1. Download a non-custodial bitcoin lightning wallet
 2. Transfer some bitcoin to it (a small amount)
 3. Send bitcoin over lightning
 4. Watch <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a>
