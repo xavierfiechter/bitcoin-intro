@@ -20,6 +20,7 @@
 | 9. | Bitcoin Privacy                                  |   |
 | 10. | Bitcoin MicroPayments (Lightning)               |   |
 | 11. | Technical Details                               |   |
+| 12. | Buying - More Details                           |   |
 
 -----
 
@@ -44,21 +45,10 @@
 ## Step 2. Buy some bitcoin
 *Aim: Get a small amount of bitcoin*
 
-|               | Global        | USA           | EU            | Canada        |
-| ---           | ---           | ---           | ---           | ---           |
-| Tool          | Vouchers      | CashApp       | Bittr         | Bull Bitcoin  |
-| Method        | Cash          | Debit Card    | Swift         | Transfer      |
-| Fee           | Varied        | 1.5 %         | 1.5%          | 0.25%         |
-| Interface     | In person     | App           | Website       | Website       |
+- Only buy a small amount of bitcoin to start (in a later step we will improve your backup redundancy).
+- These recommendations let you buy bitcoin quickly at the cost of reduced privacy.
+- Buying Privately is detailed in a <a href="#step-12-buying=privately" target="_blank">later step.</a>
 
-
-
-##### Global Vouchers
-0.  Check whether there are any merchants near you who sell vouchers:
-  - <a href="https://azte.co/vendors.html" target="_blank">Azteco</a>
-  - <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
-1.  If there aren't any local voucher vendors check out the below options. If there are, buy the minimum voucher denomination and follow the voucher instructions to redeem the bitcoin to your own wallet.
-2.  When prompted, paste your first bitcoin address from Step 1.
 
 ##### USA (1.5% Fee)
 0.  Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>
@@ -169,3 +159,32 @@ Congrats you now officially hold some BTC. As long as you keep those 24 words sa
 
 1. Watch <a href="https://www.youtube-nocookie.com/embed/bBC-nXj3Ng4" target="_blank">But How does bitcoin actually work</a>
 2. Watch <a href="https://www.youtube-nocookie.com/embed/Lx9zgZCMqXE" target="_blank">How Bitcoin Works Under the Hood</a>
+
+-----
+
+## Step 12. Buying Privately
+
+Though the methods explained in Step 2 are simple and easy for buying your first bitcoin it is worth considering more private options for further buying.
+
+##### Overview table
+
+|                       | Private Methods       | Semi-Private Methods  | Non-Private Methods   |
+| ---                   | ---                   | ---                   | ---                   |
+| Method of Payment     | Cash                  | Bank Transfer         | Debit Card            |
+| Interface             | In person             | Website               | Website               |
+| Email & Phone         | **Not Required**      | Required              | Required              |
+| Name & Address        | **Not Required**      | **Not Required**      | Required              |
+| Relative Privacy      | **Great**             | Fair                  | Fair                  |
+| Examples              | BISQ / Vouchers | Bittr          | CashApp / Bull Bitcoin |
+
+##### BISQ
+0. <a href="https://bisq.network/downloads/Download" target="_blank">Download</a> & Install BISQ
+1. Set local currency
+2. Look for local sellers (Select BUY BTC button on top ribbon )
+3. Buy from local seller (Select Create new offer to buy BTC with ... )
+4. Withdraw bitcoin to bitcoin address from Step 1.
+
+##### Vouchers
+0.  Check whether there are any merchants near you who sell vouchers on <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> or <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
+1.  If there aren't any local voucher vendors check out the below options. If there are, buy the minimum voucher denomination and follow the voucher instructions to redeem the bitcoin to your own wallet.
+2.  When prompted, paste your first bitcoin address from Step 1.
