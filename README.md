@@ -46,7 +46,7 @@
 
 ##### WorldWide
 0.  Check whether there are any merchants near you who sell vouchers:
-  - <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> (<a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>)
+  - <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> 
   - <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
 1.  If there aren't any local voucher vendors check out the below options. If there are, buy the minimum voucher denomination and follow the voucher instructions to redeem the bitcoin to your own wallet.
 2.  When prompted, paste your first bitcoin address from Step 1.
