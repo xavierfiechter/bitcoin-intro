@@ -36,10 +36,10 @@
 
 Read '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' by [Wiz](https://twitter.com/wiz)
 
-1.	Download <a href="https://cash.app/f" target="_blank">Cashapp</a> from the app store
-2.	Make an account
-3.	Connect a Debit Card
-4.	Buy as little as $1 of BTC
+1.	Download <a href="https://cash.app/f" target="_blank">Cashapp</a> from the app store.
+2.	Make an account.
+3.	Connect a Debit Card.
+4.	Buy as little as $1 of BTC.
 
 Congrats you now hold some BTC, cool huh? Well not really. The power of bitcoin is that you are able to custodian or hold your own funds. Right now you “own” some bitcoin but the Cash App is taking custody of that money. In short, if CashApp gets hacked or is a bad actor they could lose or run away with your funds. To fix this we go to step 2 which gets bitcoin into your hands. This is similar to holding a physical dollar, which nobody can take from you unless they successfully rob you.
 
@@ -50,13 +50,12 @@ Congrats you now hold some BTC, cool huh? Well not really. The power of bitcoin 
 *Aim: Self custody your bitcoin*
 
 1.	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
-2.	Make an account and write down the 24 words presented to you. These 24 words act as a key to unlock the wallet. Without the key nobody can access your wallet, similar to a key to your car or house. We will explain this in more detail later.
-3.	Store these 12 words somewhere secure, don’t show anybody this.
-4.	In green wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
-5.	Open up cash app find the Withdraw Bitcoin button, specify an amount and paste that previously copied address in.
-6.	Confirm the transaction and wait for the funds to appear in green wallet. Funds should appear pretty quickly but Cash App may take ~10 minutes to send out the funds.
+2.	Make an account and write down the 24 words presented to you. These 24 words act as a key to unlock the wallet.
+3.	In green wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
+4.	Open up cash app find the Withdraw Bitcoin button, specify an amount and paste that previously copied address in.
+5.	Confirm the transaction and wait for the funds to appear in green wallet. Funds should appear pretty quickly but Cash App may take ~10 minutes to send out the funds.
 
-Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created.
+Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created. Without the key nobody can access your wallet, similar to a key to your car or house. We will explain this in more detail later.
 
 
 -----
