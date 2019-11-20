@@ -32,22 +32,30 @@
 -----
 
 ## Step 1. Try it
-*Aim: Get a small amount of bitcoin and make a transaction*
+*Aim: Get a small amount of bitcoin*
 
-1. <a href="https://bitcoin-only.com/#wallets/" target="_blank">Download</a> a Bitcoin Wallet 
-2. <a href="https://bitcoin-only.com/#get-bitcoin" target="_blank">Get</a> some bitcoin 
-3. Withdraw the bitcoin to your wallet
-4. Send some bitcoin to yourself
-5. Look at the transaction
+1.	Download Cashapp from the app store
+2.	Make an account
+3.	Connect a Debit Card
+4.	Buy as little as $1 of BTC
+
+Congrats you now hold some BTC, cool huh? Well not really. The power of bitcoin is that you are able to custodian or hold your own funds. Right now you “own” some bitcoin but the Cash App is taking custody of that money. In short, if CashApp gets hacked or is a bad actor they could lose or run away with your funds. To fix this we go to step 2 which gets bitcoin into your hands. This is similar to holding a physical dollar, which nobody can take from you unless they successfully rob you.
+
 
 -----
 
-## Step 2. Backup your bitcoin
-*Aim: Backup your bitcoin*
+## Step 2. Take Ownership
+*Aim: Self custody your bitcoin*
 
-1. Locate your seed
-2. Write it on a piece of paper
-3. Hide that piece of paper somewhere safe
+1.	Download a wallet. We recommend Green wallet by blockstream.
+2.	Make an account and write down the 24 words presented to you. These 24 words act as a key to unlock the wallet. Without the key nobody can access your wallet, similar to a key to your car or house. We will explain this in more detail later.
+3.	Store these 12 words somewhere secure, don’t show anybody this.
+4.	In green wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
+5.	Open up cash app find the Withdraw Bitcoin button, specify an amount and paste that previously copied address in.
+6.	Confirm the transaction and wait for the funds to appear in green wallet. Funds should appear pretty quickly but Cash App may take ~10 minutes to send out the funds.
+
+Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created.
+
 
 -----
 
