@@ -9,8 +9,8 @@
 | Step | Description                                    |Done|
 | ---- | -----------                                    |---|
 | 0. | Setup                                            |   |
-| 1. | Try It                                           |   |
-| 2. | Backup your bitcoin                              |   |
+| 1. | Get a Wallet                                     |   |
+| 2. | Buy some bitcoin                                 |   |
 | 3. | Why use bitcoin?                                 |   |
 | 4. | What is bitcoin?                                 |   |
 | 5. | Further Learning                                 |   |
@@ -31,32 +31,36 @@
 
 -----
 
-## Step 1. Try it
-*Aim: Get a small amount of bitcoin*
-
-Read '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' by [Wiz](https://twitter.com/wiz)
-
-1.	Download <a href="https://cash.app/f" target="_blank">Cashapp</a> from the app store.
-2.	Make an account.
-3.	Connect a Debit Card.
-4.	Buy as little as $1 of BTC.
-
-Congrats you now hold some BTC, cool huh? Well not really. The power of bitcoin is that you are able to custodian or hold your own funds. Right now you “own” some bitcoin but the Cash App is taking custody of that money. In short, if CashApp gets hacked or is a bad actor they could lose or run away with your funds. To fix this we go to step 2 which gets bitcoin into your hands. This is similar to holding a physical dollar, which nobody can take from you unless they successfully rob you.
-
-
------
-
-## Step 2. Take Ownership
+## Step 1. Get a Wallet
 *Aim: Self custody your bitcoin*
 
 1.	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
-2.	Make an account and write down the 24 words presented to you. These 24 words act as a key to unlock the wallet.
-3.	In green wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
-4.	Open up cash app find the Withdraw Bitcoin button, specify an amount and paste that previously copied address in.
-5.	Confirm the transaction and wait for the funds to appear in green wallet. Funds should appear pretty quickly but Cash App may take ~10 minutes to send out the funds.
+2.	Make a new wallet and write down the 24 words presented to you. These 24 words act as a key to access your bitcoin.
+3.  Make another copy of these words and put them both somewhere hidden/safe in your house.
+4.	In green wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
 
-Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created. Without the key nobody can access your wallet, similar to a key to your car or house. We will explain this in more detail later.
+-----
 
+## Step 2. Buy some bitcoin
+*Aim: Get a small amount of bitcoin*
+
+##### USA (1.5% Fee)
+0.  Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot
+1.	Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store.
+2.	Make an account & connect a Debit Card.
+3.	Buy 25 USD of BTC.
+4.	Find the Withdraw Bitcoin button, specify an amount and paste your previously copied bitcoin address.
+5.	Wait for the funds to appear in green wallet (Probably < 20 mins).
+
+##### EU (Bittr - 1.5% Fee)
+0.  Check bittr on <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot  
+1.	Go to <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
+2.	Enter your email & phone number
+3.	Paste your previously copied bitcoin address
+4.  Copy the reference and send 25 EUR from your personal bank account to the bank details provided via SEPA
+5.	Wait for the funds to appear in green wallet (< 24 hrs).
+
+Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created. Without these words (known as your seed words or your private key) nobody can access your bitcoin wallet.
 
 -----
 
