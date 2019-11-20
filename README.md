@@ -20,7 +20,7 @@
 | 9. | Bitcoin Privacy                                  |   |
 | 10. | Bitcoin MicroPayments (Lightning)               |   |
 | 11. | Technical Details                               |   |
-| 12. | Buying - More Details                           |   |
+| 12. | Buying privately                                |   |
 
 -----
 
