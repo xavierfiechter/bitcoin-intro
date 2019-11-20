@@ -34,8 +34,9 @@
 ## Step 1. Try it
 *Aim: Get a small amount of bitcoin*
 
-1.	Download Cashapp from the app store
-<a href="https://cash.app/f" target="_blank">
+Read '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' by [Wiz](https://twitter.com/wiz)
+
+1.	Download <a href="https://cash.app/f" target="_blank">Cashapp</a> from the app store
 2.	Make an account
 3.	Connect a Debit Card
 4.	Buy as little as $1 of BTC
@@ -48,8 +49,7 @@ Congrats you now hold some BTC, cool huh? Well not really. The power of bitcoin 
 ## Step 2. Take Ownership
 *Aim: Self custody your bitcoin*
 
-1.	Download Blockstream Green wallet.
-<a href="https://blockstream.com/green/" target="_blank">
+1.	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
 2.	Make an account and write down the 24 words presented to you. These 24 words act as a key to unlock the wallet. Without the key nobody can access your wallet, similar to a key to your car or house. We will explain this in more detail later.
 3.	Store these 12 words somewhere secure, don’t show anybody this.
 4.	In green wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
