@@ -32,7 +32,7 @@
 -----
 
 ## Step 1. Get a Wallet
-*Aim: Self custody your bitcoin*
+*Aim: Make and backup a bitcoin wallet*
 
 1.	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
 2.	Make a new wallet and write down the 24 words presented to you. These 24 words act as a key to access your bitcoin.
@@ -44,21 +44,35 @@
 ## Step 2. Buy some bitcoin
 *Aim: Get a small amount of bitcoin*
 
+##### WorldWide
+0.  Check whether there are any merchants near you who sell vouchers:
+  - <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> (<a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>)
+  - <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
+1.  If there aren't any local voucher vendors check out the below options. If there are, buy the minimum voucher denomination and follow the voucher instructions to redeem the bitcoin to your own wallet.
+2.  When prompted, paste your first bitcoin address from Step 1.
+
 ##### USA (1.5% Fee)
-0.  Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot
+0.  Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>
 1.	Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store.
 2.	Make an account & connect a Debit Card.
 3.	Buy 25 USD of BTC.
-4.	Find the Withdraw Bitcoin button, specify an amount and paste your previously copied bitcoin address.
-5.	Wait for the funds to appear in green wallet (Probably < 20 mins).
+4.	Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1.
+5.	Wait for the funds to appear in green wallet (< 24 hrs).
 
 ##### EU (Bittr - 1.5% Fee)
-0.  Check bittr on <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot  
+0.  Check bittr on <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a>
 1.	Go to <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
 2.	Enter your email & phone number
-3.	Paste your previously copied bitcoin address
+3.	Paste your first bitcoin address from Step 1
 4.  Copy the reference and send 25 EUR from your personal bank account to the bank details provided via SEPA
 5.	Wait for the funds to appear in green wallet (< 24 hrs).
+
+##### CAN (BullBitcoin - Unknown Fee)
+0.  Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  
+1.  Go to <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>.
+2.  Deposit 25 CAD & Buy 25 CAD worth of bitcoin
+3.	Paste your first bitcoin address from Step 1
+4.	Wait for the funds to appear in green wallet (>24 hrs).  
 
 Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created. Without these words (known as your seed words or your private key) nobody can access your bitcoin wallet.
 
