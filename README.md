@@ -117,12 +117,46 @@ Congrats you now officially hold some BTC. As long as you keep those 24 words sa
 
 -----
 
-## Step 7. Running a Node
+# Step 7. Running a Node
 *Aim: Understand how and why bitcoiners run their own full nodes.*
 
-1. <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">Benefits of a Full Node</a>
-2. Video Tutorials: <a href="https://www.youtube.com/watch?v=0Zq_JdExHkE&list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h" target="_blank">Install Linux</a> & <a href="https://www.youtube.com/watch?v=q0Uen8p4feM&list=PLmoQ11MXEmag9I2ibHnubzJdjDqypujCk" target="_blank">Install Core</a>
-3. <a href="https://medium.com/hackernoon/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea" target="_blank">Written Tutorial</a>
+Note: Running a node only benefits you if you use your node to send and receive transactions.
+
+1. Watch <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">Benefits of a Full Node</a>
+2. Evaluate below tables to determine which route seems most suitable given:
+
+
+|                       | Route A       | Route B       | Route C       | Route D       |  
+| --                    | --            | --            | --            | --            |
+| Cost                  | Zero          | Zero          | Low           | **High**      |
+| Time Requirement      | Low           | **High**      | **Mid/High**  | Low           |
+| Setup Difficulty      | Low           | **High**      | Mid           | Low           |
+| Downtime              | **High**      | Low           | Low           | Low           |
+
+
+| Route | Ideal User | Positives     | Negatives     | 
+| --            | --            | --    | -- |
+| A | Non-technical Beginner | Free, Easy and Quick | When your computer is off your node will not be running so when you do want to use it you will have to wait for it to sync.|
+| B | Technical Enthusiast | Free | Requires significant time to setup & is technologically difficult if you have not used linux before.|
+| C | Less Technical Enthusiast | Reasonably low cost & quick | Requires some time to setup though typically guides specify hardware making setup as simple as following instructions precisely. |
+| D | Anyone who can comfortably afford this option | Quick and Easy | High cost compared to alternatives |
+
+##### Route A: Bitcoin-Core on your day to day computer
+- Download <a href="https://github.com/lightning-power-users/node-launcher/releases" target="_blank">NodeLauncher</a>, a simple program to help you intstall bitcoin core.
+
+##### Route B: Bitcoin-core on an available always-on computer
+- Video Tutorial: <a href="https://www.youtube.com/watch?v=0Zq_JdExHkE&list=PLmoQ11MXEmagwLs0NtjadkyVwc-CFfr4h" target="_blank">Install Linux</a> & <a href="https://www.youtube.com/watch?v=q0Uen8p4feM&list=PLmoQ11MXEmag9I2ibHnubzJdjDqypujCk" target="_blank">Install Core</a>
+- Written Tutorial <a href="https://medium.com/hackernoon/a-complete-beginners-guide-to-installing-a-bitcoin-full-node-on-linux-2018-edition-cb8e384479ea" target="_blank">Option 1 </a> / <a href="https://github.com/k3tan172/ubuntu-node-box/" target="_blank">Option 2</a>
+
+
+##### Route C: Build a standalone node
+- Enthusiasts who want to control their own bitcoin full stack: <a href="http://mynodebtc.com/" target="_blank">MyNodeBTC</a>
+- Samourai Wallet Users: <a href="https://bitcoin-on-raspberry-pi-4.gitbook.io/" target="_blank">DOJO</a>
+- Other Options: <a href="https://stadicus.github.io/RaspiBolt/" target="_blank">RaspiBolt</a> / <a href="https://github.com/rootzoll/raspiblitz" target="_blank">RaspiBlitz</a>
+
+##### Route D: Buy a pre-built standalone node
+- Price sensitive enthusiasts who want to control their own bitcoin full stack: <a href="http://mynodebtc.com/products/one" target="_blank">MyNodeBTC</a> / <a href="https://raspiblitz.com/" target="_blank">Raspiblitz</a> (<a href="https://shop.fulmo.org/" target="_blank">EU</a> | <a href="https://lightninginabox.co/product/raspiblitz-raspberry-pi-lightning-node/" target="_blank">USA </a>)
+- Enthusiasts who want high performance: <a href="https://www.nodl.it/" target="_blank">NODL</a> / <a href="https://shop.nodl.it/en/home/38-nodl-samourai-edition.html" target="_blank">NODL Samourai</a>
 
 -----
 
