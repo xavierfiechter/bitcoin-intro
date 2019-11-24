@@ -82,7 +82,8 @@ Congrats you now officially hold some BTC. As long as you keep those 24 words sa
 *Aim: Learn why bitcoin is useful*
 
 1. Read '<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank">Why Bitcoin</a>' by [Wiz](https://twitter.com/wiz)
-2. Watch '<a href="https://youtu.be/q0XxsabgJEI?t=31" target="_blank">Why Bitcoin Matters</a>' by [Aleks Svetski](https://twitter.com/AleksSvetski)
+2. Read '<a href="https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1" target="_blank">The Bullish Case for Bitcoin</a>' by [Vijay Boyapati](https://twitter.com/real_vijay)
+3. Watch '<a href="https://youtu.be/q0XxsabgJEI?t=31" target="_blank">Why Bitcoin Matters</a>' by [Aleks Svetski](https://twitter.com/AleksSvetski)
 
 -----
 
