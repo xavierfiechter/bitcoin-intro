@@ -219,6 +219,8 @@ Though the methods explained in Step 2 are simple and easy for buying your first
 3. Buy from local seller (Select Create new offer to buy BTC with ... )
 4. Withdraw bitcoin to bitcoin address from Step 1.
 
+*Note: As stated when installing BISQ, the user is responsible for using the software in compliance with local laws.*
+
 ##### Vouchers
 0.  Check whether there are any merchants near you who sell vouchers on <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> or <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
 1.  If there aren't any local voucher vendors check out the below options. If there are, buy the minimum voucher denomination and follow the voucher instructions to redeem the bitcoin to your own wallet.
