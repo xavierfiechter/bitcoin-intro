@@ -81,7 +81,7 @@
 3. Enter your desired amount (any sum between CHF 100 and CHF 500)
 4. Confirm the offer received
 5. Enter your mobile number and the security code (mTAN) sent to your phone
-6. You cannot top up your Bitcoin wallet by credit card or using cash (CHF or EUR)
+6. You cannot top up your bitcoin wallet by credit card use cash (CHF or EUR)
 
 
 
