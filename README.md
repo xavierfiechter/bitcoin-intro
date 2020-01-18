@@ -70,6 +70,7 @@
   3. Paste your first bitcoin address from Step 1
   4. Copy the reference and send 25 EUR from your personal bank account to the bank details provided via SEPA
   5. Wait for the funds to appear in green wallet (< 24 hrs).
+  
 </details>
 
 <details>
