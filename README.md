@@ -73,6 +73,17 @@
 3.	Paste your first bitcoin address from Step 1
 4.	Wait for the funds to appear in green wallet (< 24 hrs).  
 
+##### CHF (any SBB ticket machine - 6% Fee)
+
+0. Go out. You can top up your bitcoin wallet quickly and easily at any time and at any SBB ticket machine.
+1. First select “Prepaid” then “Top up Bitcoin”
+2. Scan the QR code on your Bitcoin wallet
+3. Enter your desired amount (any sum between CHF 100 and CHF 500)
+4. Confirm the offer received
+5. Enter your mobile number and the security code (mTAN) sent to your phone
+6. You cannot top up your bitcoin wallet by credit card use cash (CHF or EUR)
+
+
 
 Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created. Without these words (known as your seed words or your private key) nobody can access your bitcoin wallet.
 
