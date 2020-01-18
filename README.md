@@ -40,7 +40,7 @@
 - These recommendations let you buy bitcoin quickly at the cost of reduced privacy.
 - Buying Privately is detailed in a <a href="#step-12-buying=privately" target="_blank">later step.</a>
 
-##### USA (1.5% Fee)
+##### USD (1.5% Fee)
 0.  Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>
 1.	Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store.
 2.	Make an account & connect a Debit Card.
@@ -48,7 +48,7 @@
 4.	Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1.
 5.	Wait for the funds to appear in green wallet (< 24 hrs).
 
-##### EU (Bittr - 1.5% Fee)
+##### EUR (Bittr - 1.5% Fee)
 0.  Check bittr on <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a>
 1.	Go to <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
 2.	Enter your email & phone number
@@ -56,7 +56,7 @@
 4.  Copy the reference and send 25 EUR from your personal bank account to the bank details provided via SEPA
 5.	Wait for the funds to appear in green wallet (< 24 hrs).
 
-##### CAN (BullBitcoin - 0.25% Fee)
+##### CAD (BullBitcoin - 0.25% Fee)
 0.  Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  
 1.  Go to <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>.
 2.  Deposit 25 CAD & Buy 25 CAD worth of bitcoin
