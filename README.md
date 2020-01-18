@@ -35,7 +35,7 @@
 ## Step 1. Get a Wallet
 *Aim: Make and backup a bitcoin wallet*
 
-1.	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
+1. 	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
 2.	Make a new wallet and write down the 24 words presented to you. These 24 words act as a key to access your bitcoin.
 3.  Make another copy of these words and put them both somewhere hidden/safe in your house.
 4.	In green wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
@@ -52,47 +52,47 @@
 <details>
 <summary>USA (1.5% Fee)</summary>
 
-  0.  Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>
-  1.	Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store.
-  2.	Make an account & connect a Debit Card.
-  3.	Buy 25 USD of BTC.
-  4.	Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1.
-  5.	Wait for the funds to appear in green wallet (< 24 hrs).
+  0. Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>
+  1. Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store.
+  2. Make an account & connect a Debit Card.
+  3. Buy 25 USD of BTC.
+  4. Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1.
+  5. Wait for the funds to appear in green wallet (< 24 hrs).
 
 </details>
 
 <details>
 <summary>EU (Bittr - 1.5% Fee)</summary>
 
-  0.  Check bittr on <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a>
-  1.	Go to <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
-  2.	Enter your email & phone number
-  3.	Paste your first bitcoin address from Step 1
-  4.  Copy the reference and send 25 EUR from your personal bank account to the bank details provided via SEPA
-  5.	Wait for the funds to appear in green wallet (< 24 hrs).
+  0. Check bittr on <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a>
+  1. Go to <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
+  2. Enter your email & phone number
+  3. Paste your first bitcoin address from Step 1
+  4. Copy the reference and send 25 EUR from your personal bank account to the bank details provided via SEPA
+  5. Wait for the funds to appear in green wallet (< 24 hrs).
 </details>
 
 <details>
 <summary>CAN (BullBitcoin - 0.25% Fee)</summary>
 
-0.  Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  
-1.  Go to <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>.
-2.  Deposit 25 CAD & Buy 25 CAD worth of bitcoin
-3.	Paste your first bitcoin address from Step 1
-4.	Wait for the funds to appear in green wallet (< 24 hrs).  
+  0. Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  
+  1. Go to <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>.
+  2. Deposit 25 CAD & Buy 25 CAD worth of bitcoin
+  3. Paste your first bitcoin address from Step 1
+  4. Wait for the funds to appear in green wallet (< 24 hrs).  
 
 </details>
 
 <details>
 <summary>CHF (any SBB ticket machine - 6% Fee)</summary>
 
-0. Go out. You can top up your bitcoin wallet quickly and easily at any time and at any SBB ticket machine.
-1. First select “Prepaid” then “Top up Bitcoin”
-2. Scan the QR code on your Bitcoin wallet
-3. Enter your desired amount (any sum between CHF 100 and CHF 500)
-4. Confirm the offer received
-5. Enter your mobile number and the security code (mTAN) sent to your phone
-6. You cannot top up your bitcoin wallet by credit card use cash (CHF or EUR)
+  0. Go out. You can top up your bitcoin wallet quickly and easily at any time and at any SBB ticket machine.
+  1. First select “Prepaid” then “Top up Bitcoin”
+  2. Scan the QR code on your Bitcoin wallet
+  3. Enter your desired amount (any sum between CHF 100 and CHF 500)
+  4. Confirm the offer received
+  5. Enter your mobile number and the security code (mTAN) sent to your phone
+  6. You cannot top up your bitcoin wallet by credit card use cash (CHF or EUR)
 
 </details>
 
