@@ -8,7 +8,6 @@
 
 | Step | Description                                    |Done|
 | ---- | -----------                                    |---|
-| 0. | Setup                                            |   |
 | 1. | Get a Wallet                                     |   |
 | 2. | Buy some bitcoin                                 |   |
 | 3. | Why use bitcoin?                                 |   |
@@ -21,14 +20,6 @@
 | 10. | Bitcoin MicroPayments (Lightning)               |   |
 | 11. | Technical Details                               |   |
 | 12. | Buying privately                                |   |
-
------
-
-## Step 0. Setup
-
-| I have a printer | I don't have a printer |
-| --- | --- |
-| Print <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> & Track your progress by ticking off steps in the `Done` column. | Save <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/bitcoin-intro.pdf" target="_blank">this PDF</a> to your desktop & Track your progress by renaming the PDF to include the next Lesson Number (e.g. `bitcoin-intro_Lesson2.pdf`) |
 
 -----
 
