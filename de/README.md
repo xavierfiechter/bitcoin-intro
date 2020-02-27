@@ -1,4 +1,4 @@
-<!-- Version: 0.01 EN -->
+<!-- Version: 0.01 DE -->
 
 | <a href="/" >English</a> | <a href="/de/">Deutsch</a> |
 | - | - |
