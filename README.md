@@ -29,8 +29,8 @@
 *Aim: Make and backup a bitcoin wallet*
 
 1. 	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
-2.	Make a new wallet and write down the 24 words presented to you. These 24 words act as a key to access your bitcoin.
-3.  Make another copy of these words and put them both somewhere hidden/safe in your house.
+2.	Make a new wallet and write down the 24 words presented to you using pen and paper. These 24 words act as a key to access your bitcoin.
+3.  Make another copy of these words (again, using pen and paper) and put them both somewhere hidden/safe in your house.
 4.	In green wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
 
 -----
