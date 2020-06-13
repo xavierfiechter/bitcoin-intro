@@ -50,14 +50,6 @@
 4.	Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1.
 5.	Wait for the funds to appear in green wallet (< 24 hrs).
 
-##### EUR (Bittr - 1.5% Fee)
-0.  Check bittr on <a href="https://www.trustpilot.com/review/getbittr.com" target="_blank">Trustpilot</a>
-1.	Go to <a href="https://getbittr.com/save-bitcoin" target="_blank">Bittr</a>.
-2.	Enter your email & phone number
-3.	Paste your first bitcoin address from Step 1
-4.  Copy the reference and send 25 EUR from your personal bank account to the bank details provided via SEPA
-5.	Wait for the funds to appear in green wallet (< 24 hrs).
-
 ##### CAD (BullBitcoin - 0.25% Fee)
 0.  Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  
 1.  Go to <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>.
