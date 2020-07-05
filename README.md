@@ -1,6 +1,6 @@
-<!-- Version: 0.01 EN -->
+<!-- Version: 0.02 EN -->
 
-| <a href="/" >English</a> | <a href="/de/">Deutsch</a> | <a href="/es/">Español</a> |
+| <a href="/" >English</a> | <a href="/es/">Español</a> |
 
 ###### Guiding Principles
 - Starting simply and improving is better than than not starting at all
@@ -28,10 +28,10 @@
 ## Step 1. Get a Wallet
 *Aim: Make and backup a bitcoin wallet*
 
-1. 	Download <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet</a>.
-2.	Make a new wallet and write down the 24 words presented to you using pen and paper. These 24 words act as a key to access your bitcoin.
+1. 	Download <a href="https://play.google.com/store/apps/details?id=com.samourai.wallet" target="_blank">Samourai Wallet</a> for Android or <a href="https://blockstream.com/green/" target="_blank">Blockstream Green wallet for iOS</a>.
+2.	Make a new wallet and write down the words presented to you using pen and paper. These words act as a key to access your bitcoin.
 3.  Make another copy of these words (again, using pen and paper) and put them both somewhere hidden/safe in your house.
-4.	In green wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
+4.	In the wallet, click receive and copy the address shown on screen, this can be done by clicking on the QR code.
 
 -----
 
@@ -41,6 +41,17 @@
 - Only buy a small amount of bitcoin to start (in a later step we will improve your backup redundancy).
 - These recommendations let you buy bitcoin quickly at the cost of reduced privacy.
 - Buying Privately is detailed in a <a href="#step-12-buying-privately" target="_blank">later step.</a>
+
+<details open>
+<summary>USD (1.5% Fee)</summary>
+<br>
+0.  Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>
+1.	Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store.
+2.	Make an account & connect a Debit Card.
+3.	Buy 25 USD of BTC.
+4.	Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1.
+5.	Wait for the funds to appear in green wallet (< 24 hrs).
+</details>
 
 ##### USD (1.5% Fee)
 0.  Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>

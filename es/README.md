@@ -1,6 +1,6 @@
-<!-- Version: 0.01 ES -->
+<!-- Version: 0.02 ES -->
 
-| <a href="/" >English</a> | <a href="/de/">Deutsch</a> | <a href="/es/">Español</a> |
+| <a href="/" >English</a> | <a href="/es/">Español</a> |
 
 ###### Principios rectores
 - Comenzar simplemente y mejorar es mejor que no comenzar en absoluto
@@ -225,4 +225,3 @@ Aunque los métodos explicados en el Paso 2 son simples y fáciles para comprar 
 0.  Compruebe si hay comerciantes cerca de usted que venden vales en <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> o <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a>
 1.  Si no hay vendedores de cupones locales, consulte las siguientes opciones. Si los hay, compre la denominación mínima del cupón y siga las instrucciones del cupón para canjear el bitcoin en su propia billetera.
 2.  Cuando se le solicite, pegue su primera dirección de bitcoin del Paso 1
-
