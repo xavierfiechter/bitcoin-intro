@@ -42,10 +42,9 @@
 - These recommendations let you buy bitcoin quickly at the cost of reduced privacy.
 - Buying Privately is detailed in a <a href="#step-12-buying-privately" target="_blank">later step.</a>
 
-<details open>
+<details>
 <summary>USD (1.5% Fee)</summary>
 <br>
-
 <ol>
   <li> Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a> </li>
   <li> Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store. </li>
@@ -54,32 +53,34 @@
   <li> Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1. </li>
   <li> Wait for the funds to appear in green wallet (< 24 hrs). </li>
 </ol>
-
 </details>
 
-##### USD (1.5% Fee)
-0.  Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>
-1.	Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store.
-2.	Make an account & connect a Debit Card.
-3.	Buy 25 USD of BTC.
-4.	Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1.
-5.	Wait for the funds to appear in green wallet (< 24 hrs).
+<details>
+<summary>CAD (BullBitcoin - 0.25% Fee)</summary>
+<br>
+<ol>
+  <li> Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  </li>
+  <li> Go to <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>. </li>
+  <li> Deposit 25 CAD & Buy 25 CAD worth of bitcoin </li>
+  <li> Paste your first bitcoin address from Step 1 </li>
+  <li> Wait for the funds to appear in green wallet (< 24 hrs).  </li>
+  </ol>
+</details>
 
-##### CAD (BullBitcoin - 0.25% Fee)
-0.  Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  
-1.  Go to <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>.
-2.  Deposit 25 CAD & Buy 25 CAD worth of bitcoin
-3.	Paste your first bitcoin address from Step 1
-4.	Wait for the funds to appear in green wallet (< 24 hrs).  
+<details>
+<summary>CHF (any SBB ticket machine - 6% Fee)</summary>
+<br>
+<ol>
+  <li> Go out. You can top up your bitcoin wallet quickly and easily at any time and at any SBB ticket machine. </li>
+  <li> First select “Prepaid” then “Top up Bitcoin” </li>
+  <li> Scan the QR code on your Bitcoin wallet </li>
+  <li> Enter your desired amount (any sum between CHF 100 and CHF 500) </li>
+  <li> Confirm the offer received </li>
+  <li> Enter your mobile number and the security code (mTAN) sent to your phone </li>
+  <li> 6. You cannot top up your bitcoin wallet by credit card use cash (CHF or EUR) </li>
+</ol>
+</details>
 
-##### CHF (any SBB ticket machine - 6% Fee)
-0. Go out. You can top up your bitcoin wallet quickly and easily at any time and at any SBB ticket machine.
-1. First select “Prepaid” then “Top up Bitcoin”
-2. Scan the QR code on your Bitcoin wallet
-3. Enter your desired amount (any sum between CHF 100 and CHF 500)
-4. Confirm the offer received
-5. Enter your mobile number and the security code (mTAN) sent to your phone
-6. You cannot top up your bitcoin wallet by credit card use cash (CHF or EUR)
 
 Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created. Without these words (known as your seed words or your private key) nobody can access your bitcoin wallet.
 
