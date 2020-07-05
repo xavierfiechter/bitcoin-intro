@@ -45,12 +45,16 @@
 <details open>
 <summary>USD (1.5% Fee)</summary>
 <br>
-0.  Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a>
-1.	Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store.
-2.	Make an account & connect a Debit Card.
-3.	Buy 25 USD of BTC.
-4.	Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1.
-5.	Wait for the funds to appear in green wallet (< 24 hrs).
+
+<ol>
+  <li> Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a> </li>
+  <li> Download <a href="https://cash.app/" target="_blank">Cashapp</a> from the app store. </li>
+  <li> Make an account & connect a Debit Card. </li>
+  <li> Buy 25 USD of BTC. </li>
+  <li> Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1. </li>
+  <li> Wait for the funds to appear in green wallet (< 24 hrs). </li>
+</ol>
+
 </details>
 
 ##### USD (1.5% Fee)
