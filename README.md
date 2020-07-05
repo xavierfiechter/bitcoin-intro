@@ -64,7 +64,7 @@
   <li> Deposit 25 CAD & Buy 25 CAD worth of bitcoin </li>
   <li> Paste your first bitcoin address from Step 1 </li>
   <li> Wait for the funds to appear in green wallet (< 24 hrs).  </li>
-  </ol>
+</ol>
 </details>
 
 <details>
@@ -77,7 +77,7 @@
   <li> Enter your desired amount (any sum between CHF 100 and CHF 500) </li>
   <li> Confirm the offer received </li>
   <li> Enter your mobile number and the security code (mTAN) sent to your phone </li>
-  <li> 6. You cannot top up your bitcoin wallet by credit card use cash (CHF or EUR) </li>
+  <li> You cannot top up your bitcoin wallet by credit card use cash (CHF or EUR) </li>
 </ol>
 </details>
 
