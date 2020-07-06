@@ -63,7 +63,7 @@
   <li> Go to <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a>. </li>
   <li> Deposit 25 CAD & Buy 25 CAD worth of bitcoin </li>
   <li> Paste your first bitcoin address from Step 1 </li>
-  <li> Wait for the funds to appear in green wallet (< 24 hrs).  </li>
+  <li> Wait for the funds to appear in green wallet (< 24 hrs) </li>
 </ol>
 </details>
 
