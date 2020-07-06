@@ -42,8 +42,7 @@
 - These recommendations let you buy bitcoin quickly at the cost of reduced privacy.
 - Buying Privately is detailed in a <a href="#step-12-buying-privately" target="_blank">later step.</a>
 
-<details>
-<summary>USD (1.5% Fee)</summary>
+USD (1.5% Fee)
 <br>
 <ol>
   <li> Check cashapp on <a href="https://www.trustpilot.com/review/cash.app" target="_blank">Trustpilot</a> </li>
@@ -53,10 +52,8 @@
   <li> Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1. </li>
   <li> Wait for the funds to appear in green wallet (< 24 hrs). </li>
 </ol>
-</details>
 
-<details>
-<summary>CAD (BullBitcoin - 0.25% Fee)</summary>
+CAD (BullBitcoin - 0.25% Fee)
 <br>
 <ol>
   <li> Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  </li>
@@ -65,10 +62,8 @@
   <li> Paste your first bitcoin address from Step 1 </li>
   <li> Wait for the funds to appear in green wallet (< 24 hrs) </li>
 </ol>
-</details>
 
-<details>
-<summary>CHF (any SBB ticket machine - 6% Fee)</summary>
+CHF (any SBB ticket machine - 6% Fee)
 <br>
 <ol>
   <li> Go out. You can top up your bitcoin wallet quickly and easily at any time and at any SBB ticket machine. </li>
@@ -79,7 +74,6 @@
   <li> Enter your mobile number and the security code (mTAN) sent to your phone </li>
   <li> You cannot top up your bitcoin wallet by credit card use cash (CHF or EUR) </li>
 </ol>
-</details>
 
 
 Congrats you now officially hold some BTC. As long as you keep those 24 words safe nobody can steal the funds from the wallet you have created. Without these words (known as your seed words or your private key) nobody can access your bitcoin wallet.
