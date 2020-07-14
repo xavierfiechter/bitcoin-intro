@@ -50,6 +50,16 @@ USD (1.5% Fee)
 3. Buy 25 USD of BTC.
 4. Find the Withdraw Bitcoin button, specify an amount and paste your first bitcoin address from Step 1. 5. Wait for the funds to appear in green wallet (< 24 hrs).
 
+AUD (0% Fee)
+
+0. Check Bitaroo on <a href="https://au.trustpilot.com/review/www.bitaroo.com.au" target="_blank">Trustpilot</a> 
+1. Go to <a href="https://trade.bitaroo.com.au/express" target="_blank">Bitaroo Express Buy</a>.
+2. Sign up & deposit 25 AUD.
+3. Buy 25 AUD of BTC.
+4. Click 'Withdraw', paste your first bitcoin address from Step 1, click 'max' amount to withdraw, confirm.	
+5. Wait for the funds to appear in green wallet (< 24 hrs).
+
+
 CAD (BullBitcoin - 0.25% Fee)
 
 0. Check BullBitcoin on <a href="https://www.trustpilot.com/review/bullbitcoin.com" target="_blank">Trustpilot  
