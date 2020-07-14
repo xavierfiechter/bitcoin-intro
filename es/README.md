@@ -1,6 +1,6 @@
 <!-- Version: 0.02 ES -->
 
-| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a>
+| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> | <a href="/it/">Italiano</a>
 
 ###### Principios rectores
 - Comenzar simplemente y mejorar es mejor que no comenzar en absoluto
