@@ -1,6 +1,6 @@
 <!-- Version: 0.02 EN -->
 
-| <a href="/" >English</a> | <a href="/es/">Español</a> |
+| <a href="/" >English</a> | <a href="/es/">Español</a> | <a href="/ar/">العربية</a> |
 
 ###### Guiding Principles
 - Starting simply and improving is better than than not starting at all
