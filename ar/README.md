@@ -7,6 +7,7 @@
       <td><a href="https://bitcoin-intro.com/es/">Español</a></td>
       <td><a href="https://bitcoin-intro.com/ar/">العربية</a></td>
       <td><a href="https://bitcoin-intro.com/it/">Italiano</a></td>
+      <td><a href="https://bitcoin-intro.com/nl/">Nederland</a></td>
     </tr>
   </tbody>
 </table>
