@@ -35,10 +35,10 @@
 
 -----
 
-## Stap 2. Koop wat bitcoin 
+## Stap 2. Koop bitcoin 
 *Doel: Een kleine hoeveelheid bitcoin in je wallet krijgen*
 
-- Koop om te beginnen een klein beetje bitcoin, zodat je weet hoe het werkt
+- Koop om te beginnen een kleine hoeveelheid sats (of "satoshi's", 1/100 miljoenste bitcoin), zodat je kunt uitvinden hoe het kopen werkt
 - De eerste manier is snel & makkelijk, maar is niet privé - de verkoper weet dus wie je bent
 - Hoe je bitcoin op een privé-manier kunt kopen lees je in <a href="#step-12-buying-privately" target="_blank">stap 12</a>
 - Bitcoin-intro heeft geen connectie met de hieronder genoemde manieren om bitcoin te kopen
@@ -72,8 +72,8 @@ Gefeliciteerd! Je hebt nu (een gedeelte van een) bitcoin. Zo lang je de 24 woord
 
 -----
 
-## Stap 5. Further Learning
-*Doel: Further develop your understanding of bitcoin*
+## Stap 5. Nóg meer leren
+*Doel: Leer meer over Bitcoin, hoe het werkt, en waarom het belangrijk is *
 
 ###### Luister
 1. <a href="https://youtu.be/Zbm772vF-5M?t=308" target="_blank">Presentatie over The Bitcoin Standard</a> 
