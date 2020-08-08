@@ -9,6 +9,7 @@
       <td><a href="https://bitcoin-intro.com/it/">Italiano</a></td>
       <td><a href="https://bitcoin-intro.com/nl/">Nederland</a></td>
       <td><a href="https://bitcoin-intro.com/fi/">Finnish</a></td>
+      <td><a href="https://bitcoin-intro.com/pt/">Português</a></td>
     </tr>
   </tbody>
 </table>
@@ -16,7 +17,7 @@
 <h6 id="guiding-principles">مبادئ وارشادات</h6>
 <ul>
   <li>البدء بشكل بسيط ثم التطوير بعد ذلك أفضل من عدم البدء على الإطلاق.</li>
-  <li>إن عملية استخدام الأدوات قبل قراءة شرحِ مُفصَّل هو أمر أكثر جاذبيةً ومتعة.</li>
+  <li>إن عملية استخدام الأدوات قبل قراءة شرحِ مُفصَّل هو أمر أكثر جاذبيةً ومتعة.</li>
   <li>تأكد دائماً من سيطرتك الكاملة على عملاتك البيتكوين (استخدم أدواتٍ لا يوجد لأحد وصاية عليها).</li>
   <li>حافظ على تركيزك وتجنب عمليات الاحتيال (استخدم أدوات وخدمات البيتكوين فقط).</li>
 </ul>
@@ -100,7 +101,7 @@
 
 <ol>
   <li>قم بتنزيل <a href="https://play.google.com/store/apps/details?id=com.samourai.wallet" target="_blank">محفظة "الساموراي - Samourai" </a> للأندرويد أو <a href="https://blockstream.com/green/" target="_blank">محفظة "بلوكستريم جرين - Blockstream Green" لنظام الآيفون</a>.</li>
-  <li>قم بإنشاء محفظة جديدة وسَجِّل الـ 24 كلمة التي تم عرضها لك باستخدام قلم وورقة. إن هذه الـ 24 كلمة هي بمثابة المفتاح الأساسي للوصول إلى عملاتك من البيتكوين.</li>
+  <li>قم بإنشاء محفظة جديدة وسَجِّل الـ 24 كلمة التي تم عرضها لك باستخدام قلم وورقة. إن هذه الـ 24 كلمة هي بمثابة المفتاح الأساسي للوصول إلى عملاتك من البيتكوين.</li>
   <li>قم بعمل نسخة أخرى من هذه الكلمات (أيضاً باستخدام قلم وورقة) وضع كلتاهما في مكان آمن/خفي في بيتك.</li>
   <li>في محفظة جرين، اضغط على استقبال، ثم انسخ العنوان الظاهر على الشاشة. يُمكن عمل هذا بالضغط على رمز الاستجابة السريع (الباركود). </li>
 </ol>
@@ -111,8 +112,8 @@
 <p><em>الهدف: الحصول على كمية صغيرة من البيتكوين.</em></p>
 
 <ul>
-  <li>قم بشراء كمية قليلة من البيتكوين كبداية (وفي مراحل قادمة، سنُحسِّن من تكرار عملية النسخ الاحتياطي).</li>
-  <li>إن هذه التوصيات ستُمكِّنك من شراء البيتكوين بشكل سريع ولكن على حساب التقليل من الخصوصية.</li>
+  <li>قم بشراء كمية قليلة من البيتكوين كبداية (وفي مراحل قادمة، سنُحسِّن من تكرار عملية النسخ الاحتياطي).</li>
+  <li>إن هذه التوصيات ستُمكِّنك من شراء البيتكوين بشكل سريع ولكن على حساب التقليل من الخصوصية.</li>
   <li>إن عملية الشراء بشكل خاص وسري سيتم تفصيلها في <a href="https://bitcoin-intro.com/ar/#step-12-buying-privately" target="_blank">خطوة قادمة.</a></li>
 </ul>
 
@@ -151,7 +152,7 @@
 <hr>
 
 <h2 id="step-3-why-use-bitcoin">الخطوة 3. لماذا تستخدم البيتكوين؟</h2>
-<p><em>الهدف: تَعلُّم أهمية واستخدامات البيتكوين.</em></p>
+<p><em>الهدف: تَعلُّم أهمية واستخدامات البيتكوين.</em></p>
 
 <ol>
   <li>اقرأ<a href="https://medium.com/@wiz/why-bitcoin-359ada12629e" target="_blank"> لماذا البيتكوين </a>للكاتب <a href="https://twitter.com/wiz">Wiz</a></li>
@@ -209,7 +210,7 @@
 
 <ol>
   <li>شاهد <a href="https://www.youtube-nocookie.com/embed/D11R0W2uxeM" target="_blank">فوائد العقدة الكاملة.</a></li>
-  <li>قم بمعاينة الجدولين أدناه ثم قَيِّم الوضع لتحديد المسار الأكثر ملاءمة لك:</li>
+  <li>قم بمعاينة الجدولين أدناه ثم قَيِّم الوضع لتحديد المسار الأكثر ملاءمة لك:</li>
 </ol>
 
 <table>
@@ -284,7 +285,7 @@
     </tr>
     <tr>
       <td>د</td>
-      <td>مُوجَّه لأي شخص يستطيع تحمل تكلفة هذا الخيار</td>
+      <td>مُوجَّه لأي شخص يستطيع تحمل تكلفة هذا الخيار</td>
       <td>سهلة وسريعة</td>
       <td>تكلفة مرتفعة مقارنة بالبدائل.</td>
     </tr>
@@ -304,15 +305,15 @@
 
 <h5 id="route-c-build-a-standalone-node">المسار ج: إنشاء عقدة لتكون قائمة بحد ذاتها.</h5>
 <ul>
-  <li>مُوجَّه للشغوفين الذين يرغبون بالتحكم في عملاتهم البيتكوين بشكل كامل:  <a href="http://mynodebtc.com/" target="_blank">MyNodeBTC</a></li>
-  <li>مُوجَّه لمستخدمي محفظة "الساموراي": <a href="https://bitcoin-on-raspberry-pi-4.gitbook.io/" target="_blank">DOJO</a></li>
+  <li>مُوجَّه للشغوفين الذين يرغبون بالتحكم في عملاتهم البيتكوين بشكل كامل:  <a href="http://mynodebtc.com/" target="_blank">MyNodeBTC</a></li>
+  <li>مُوجَّه لمستخدمي محفظة "الساموراي": <a href="https://bitcoin-on-raspberry-pi-4.gitbook.io/" target="_blank">DOJO</a></li>
   <li> خيارات أخرى : <a href="https://stadicus.github.io/RaspiBolt/" target="_blank">RaspiBolt</a> / <a href="https://github.com/rootzoll/raspiblitz" target="_blank">RaspiBlitz</a></li>
 </ul>
 
 <h5 id="route-d-buy-a-pre-built-standalone-node">المسار د: شراء عقدة قائمة بحد بذاتها تم إعدادها مسبقاً.</h5>
 <ul>
-  <li> مُوجَّه للشغوفين الذين لديهم حساسية للسعر ويرغبون بالتحكم في عملات البيتكوين الخاصة بهم بشكل كامل: <a href="http://mynodebtc.com/products/one" target="_blank">MyNodeBTC</a> / <a href="https://raspiblitz.com/" target="_blank">Raspiblitz</a> (<a href="https://shop.fulmo.org/" target="_blank">الاتحاد الأوروبي</a> / <a href="https://lightninginabox.co/product/raspiblitz-raspberry-pi-lightning-node/" target="_blank">الولايات المتحدة الأمريكية </a>)</li>
-  <li>مُوجَّه للشغوفين الذين يريدون أداءً عالياً:  <a href="https://www.nodl.it/" target="_blank">NODL</a> / <a href="https://shop.nodl.it/en/home/38-nodl-samourai-edition.html" target="_blank">NODL Samourai</a></li>
+  <li> مُوجَّه للشغوفين الذين لديهم حساسية للسعر ويرغبون بالتحكم في عملات البيتكوين الخاصة بهم بشكل كامل: <a href="http://mynodebtc.com/products/one" target="_blank">MyNodeBTC</a> / <a href="https://raspiblitz.com/" target="_blank">Raspiblitz</a> (<a href="https://shop.fulmo.org/" target="_blank">الاتحاد الأوروبي</a> / <a href="https://lightninginabox.co/product/raspiblitz-raspberry-pi-lightning-node/" target="_blank">الولايات المتحدة الأمريكية </a>)</li>
+  <li>مُوجَّه للشغوفين الذين يريدون أداءً عالياً:  <a href="https://www.nodl.it/" target="_blank">NODL</a> / <a href="https://shop.nodl.it/en/home/38-nodl-samourai-edition.html" target="_blank">NODL Samourai</a></li>
 </ul>
 
 <hr>
@@ -419,7 +420,7 @@
 
 <h5 id="bisq">موقع BISQ</h5>
 <ol>
-  <li><a href="https://bisq.network/downloads/Download" target="_blank">نَزِّل BISQ</a> ثم قم بتسطيبه وتثبيته. </li>
+  <li><a href="https://bisq.network/downloads/Download" target="_blank">نَزِّل BISQ</a> ثم قم بتسطيبه وتثبيته. </li>
   <li>حدد واختر عملتك المحلية.</li>
   <li>ابحث عن البائعين المحليين (اختر زر الشراء من الأعلى).</li>
   <li>قم بالشراء من البائع المحلي (اختر إنشاء عرض جديد لشراء البيتكوين بوساطة...).</li>
@@ -431,7 +432,7 @@
 <h5 id="vouchers">القسائم والإيصالات</h5>
 <ol>
   <li>افحص في حال كان هناك بائعين قريبين منك ممن يبيعون القسائم والإيصالات على موقع  <a href="https://azte.co/vendors.html" target="_blank">Azteco</a> أو <a href="https://fastbitcoins.com/#locations" target="_blank">FastBitcoins</a></li>
-  <li>في حال لم يكن هناك باعة محليين ممن لديهم قسائم وإيصالات، افحص الخيارات أدناه. أما في حال تواجد هؤلاء الباعة، فقم بشراء أقل فئة متاحة من القسيمة، وطَبِّق الإرشادات المكتوبة لكي تحصل على البيتكوين ثم أرسلها إلى محفظتك.</li>
+  <li>في حال لم يكن هناك باعة محليين ممن لديهم قسائم وإيصالات، افحص الخيارات أدناه. أما في حال تواجد هؤلاء الباعة، فقم بشراء أقل فئة متاحة من القسيمة، وطَبِّق الإرشادات المكتوبة لكي تحصل على البيتكوين ثم أرسلها إلى محفظتك.</li>
   <li>قم الآن بلصق عنوانك البيتكوين الذي حصلنا عليه في الخطوة الأولى.</li>
 </ol>
 <p>تمت الترجمة والتنسيق بوساطة <a href="https://twitter.com/AhmadHamdan309">أحمد محمد حمدان</a></p>
