@@ -74,7 +74,7 @@ CHF (any SBB ticket machine - 6% Fee)
 0. Withdraw cash (CHF or EUR) & Locate an SBB ticket machine. 
 1. Select “Prepaid” then “Top up Bitcoin”
 2. Scan the QR code on your Bitcoin wallet
-3. Enter your desired amount (any sum between CHF 100 and CHF 500)
+3. Enter your desired amount (any sum between CHF 150 and CHF 500)
 4. Confirm the offer received
 5. Enter your mobile number and the security code (mTAN) sent to your phone
 
